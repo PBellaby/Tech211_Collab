@@ -1,5 +1,11 @@
 # Andrew's Tech211_Collab
 
+## Authors
+- Peter
+- Andrew
+- Jacob
+- Matt
+
 ## Dev Branch Progress:
 
 Please Do not delete. Very Important
